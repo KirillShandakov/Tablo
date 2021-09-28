@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tablo</string>
+    <string name="nameCSKA">ЦСКА</string>
+    <string name="nameSpartak">Спартак</string>
+    <string name="nameGoal">+гол</string>
+    <string name="restart">Сбросить</string>
+    <string name="championship">14 тур РПЛ 2014</string>
+</resources>

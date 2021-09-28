@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tablo</string>
+    <string name="nameCSKA">CSKA</string>
+    <string name="nameSpartak">Spartak</string>
+    <string name="nameGoal">+goal</string>
+    <string name="restart">Restart</string>
+    <string name="championship">14 tour RPL 2014</string>
+</resources>
